@@ -1,0 +1,32 @@
+body{
+  background-color: #fa9191 !important;
+  text-align: center;
+}
+.heading{
+  font-size: 7rem;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h2{
+  font-size: 4rem;
+  text-align: center;
+}
+
+.image{
+  height: 350px;
+  width: 350px;
+}
+.tb{
+  border:5px solid black;
+  margin-left:auto;
+  margin-right:auto;
+}
+td
+{
+    padding:0 60px;
+}
+.buton{
+  margin-left: 700px;
+  margin-top: 50px;
+}
